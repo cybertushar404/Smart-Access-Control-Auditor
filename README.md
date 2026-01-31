@@ -56,7 +56,7 @@ Step-by-Step Process:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/smart-access-auditor.git
+git clone https://github.com/cybertushar404/Smart-Access-Control-Auditor.git
 cd smart-access-auditor
 ```
 
